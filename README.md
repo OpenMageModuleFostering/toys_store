@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 This exclusive theme for Magento shopping cart is unique and has been specially developed for on-line children toys store. GoMage children toys theme can be implemented in orange, grey and purple colors. Easy navigation at your store means that you care about your clients and you want to make their shopping a really great experience. Advance search feature saves a lot of time for shoppers who are looking for a specific item as advance search allows a shopper to find exactly what he needs in few seconds.
